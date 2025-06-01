@@ -16,4 +16,4 @@ You can check out the provided design files here:
 ## Installation & Usage
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/indibus.git
+   git clone https://github.com/kaishavgupta/webpractice.git
