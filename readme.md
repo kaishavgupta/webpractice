@@ -1,4 +1,19 @@
-## This is my internship learning project on Tailwind
-## hands on to provided design for web and mobile view
+# Indibus Project
 
-[![Design's]([![portfolio](https://img.shields.io/badge/my_portfolio-1DA1F2?style=for-the-badge&logo=ko-fi&logoColor=white)](https://sumitnalavade.vercel.app/)  )  ]
+## Internship Learning Project on Tailwind
+
+This project is part of my internship learning experience, where I explored **Tailwind CSS** to implement designs efficiently for both **web and mobile views**.
+
+## Features
+- Hands-on practice with Tailwind CSS
+- Responsive design implementation
+- Styling based on provided design specifications
+
+## Design Reference
+You can check out the provided design files here:  
+[Design Repository](https://github.com/kaishavgupta/webpractice/tree/main/design)
+
+## Installation & Usage
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/yourusername/indibus.git
